@@ -31,8 +31,8 @@ Sou estudante de Engenharia de Software e Desenvolvedor Fullstack. Gosto de cons
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&include_all_commits=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isaias-alves&show_icons=true&theme=radical&include_all_commits=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaias-alves&layout=compact&theme=radical" height="180em" />
 </p>
 
 ---
@@ -40,4 +40,4 @@ Sou estudante de Engenharia de Software e Desenvolvedor Fullstack. Gosto de cons
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaiasalvesdesouzasantos@gmail.com)
